@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="flipkartMyProfile">
+   <listeners>
+      <listener class-name="flipkartMyProfile_Utilites.Reporting"/>
+      </listeners>
+  <test name="flipkart Test">
+      <parameter name="browser" value="chrome"/>
+      
+      <classes>
+       <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile001"/> 
+        <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile002"/>
+         <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile003"/> 
+          <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile004"/> 
+         
+     </classes>
+  </test> <!-- Test --> 
+   
+</suite> <!-- Suite -->

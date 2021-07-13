@@ -1,0 +1,1307 @@
+2021-07-11 13:18:53,698 [main] INFO flipkart - url is entered
+2021-07-11 13:18:57,276 [main] INFO flipkart - email is entered
+2021-07-11 13:18:57,522 [main] INFO flipkart - password is entered
+2021-07-11 13:18:57,688 [main] INFO flipkart - login is successfully
+2021-07-11 13:19:07,778 [main] INFO flipkart - Page is closed
+2021-07-11 13:25:10,176 [main] INFO flipkart - url is entered
+2021-07-11 13:25:13,640 [main] INFO flipkart - email is entered
+2021-07-11 13:25:13,853 [main] INFO flipkart - password is entered
+2021-07-11 13:25:14,008 [main] INFO flipkart - login is successfully
+2021-07-11 13:25:24,103 [main] INFO flipkart - Page is closed
+2021-07-11 13:32:01,597 [main] INFO flipkart - url is entered
+2021-07-11 13:32:05,068 [main] INFO flipkart - email is entered
+2021-07-11 13:32:05,277 [main] INFO flipkart - password is entered
+2021-07-11 13:32:05,458 [main] INFO flipkart - login is successfully
+2021-07-11 13:32:08,141 [main] INFO flipkart - my account is clicked
+2021-07-11 13:32:18,215 [main] INFO flipkart - Page is closed
+2021-07-11 14:48:14,354 [main] INFO flipkart - url is entered
+2021-07-11 14:48:17,782 [main] INFO flipkart - email is entered
+2021-07-11 14:48:18,006 [main] INFO flipkart - password is entered
+2021-07-11 14:48:18,180 [main] INFO flipkart - login is successfully
+2021-07-11 14:48:21,504 [main] INFO flipkart - my account is clicked
+2021-07-11 14:48:21,723 [main] INFO flipkart - myprofile is clicked
+2021-07-11 14:48:22,393 [main] INFO flipkart - personaleditbutton
+2021-07-11 14:48:27,434 [main] INFO flipkart - title is matched
+2021-07-11 14:48:27,456 [main] INFO flipkart - Page is closed
+2021-07-11 14:49:19,103 [main] INFO flipkart - url is entered
+2021-07-11 14:49:22,532 [main] INFO flipkart - email is entered
+2021-07-11 14:49:22,771 [main] INFO flipkart - password is entered
+2021-07-11 14:49:22,969 [main] INFO flipkart - login is successfully
+2021-07-11 14:49:26,152 [main] INFO flipkart - my account is clicked
+2021-07-11 14:49:29,326 [main] INFO flipkart - myprofile is clicked
+2021-07-11 14:49:29,808 [main] INFO flipkart - personaleditbutton
+2021-07-11 14:49:34,844 [main] INFO flipkart - title is matched
+2021-07-11 14:49:34,871 [main] INFO flipkart - Page is closed
+2021-07-11 14:55:27,371 [main] INFO flipkart - url is entered
+2021-07-11 14:55:30,824 [main] INFO flipkart - email is entered
+2021-07-11 14:55:31,051 [main] INFO flipkart - password is entered
+2021-07-11 14:55:31,202 [main] INFO flipkart - login is successfully
+2021-07-11 14:55:34,280 [main] INFO flipkart - my account is clicked
+2021-07-11 14:55:37,483 [main] INFO flipkart - myprofile is clicked
+2021-07-11 14:55:37,986 [main] INFO flipkart - personaleditbutton
+2021-07-11 14:55:43,217 [main] INFO flipkart - title is matched
+2021-07-11 14:55:43,234 [main] INFO flipkart - Page is closed
+2021-07-11 23:10:35,130 [main] INFO flipkart - url is entered
+2021-07-11 23:10:38,640 [main] INFO flipkart - email is entered
+2021-07-11 23:10:38,878 [main] INFO flipkart - password is entered
+2021-07-11 23:10:39,026 [main] INFO flipkart - login is successfully
+2021-07-11 23:10:42,673 [main] INFO flipkart - my account is clicked
+2021-07-11 23:10:45,941 [main] INFO flipkart - myprofile is clicked
+2021-07-11 23:10:46,586 [main] INFO flipkart - personal edit button
+2021-07-11 23:10:46,773 [main] INFO flipkart - personal first name enter
+2021-07-11 23:10:46,958 [main] INFO flipkart - personal last name is entered
+2021-07-11 23:10:47,077 [main] INFO flipkart - saved details
+2021-07-11 23:10:47,215 [main] INFO flipkart - gender is selected
+2021-07-11 23:10:47,311 [main] INFO flipkart - Email is edited
+2021-07-11 23:10:47,614 [main] INFO flipkart - email is entered
+2021-07-11 23:10:47,737 [main] INFO flipkart - email is saved
+2021-07-11 23:10:47,770 [main] INFO flipkart - Page is closed
+2021-07-11 23:11:34,884 [main] INFO flipkart - url is entered
+2021-07-11 23:11:38,247 [main] INFO flipkart - email is entered
+2021-07-11 23:11:38,475 [main] INFO flipkart - password is entered
+2021-07-11 23:11:38,643 [main] INFO flipkart - login is successfully
+2021-07-11 23:11:41,773 [main] INFO flipkart - my account is clicked
+2021-07-11 23:11:45,157 [main] INFO flipkart - myprofile is clicked
+2021-07-11 23:11:45,606 [main] INFO flipkart - personal edit button
+2021-07-11 23:11:45,794 [main] INFO flipkart - personal first name enter
+2021-07-11 23:11:46,010 [main] INFO flipkart - personal last name is entered
+2021-07-11 23:11:46,119 [main] INFO flipkart - saved details
+2021-07-11 23:11:46,220 [main] INFO flipkart - gender is selected
+2021-07-11 23:11:51,343 [main] INFO flipkart - Email is edited
+2021-07-11 23:11:51,751 [main] INFO flipkart - email is entered
+2021-07-11 23:11:51,855 [main] INFO flipkart - email is saved
+2021-07-11 23:11:51,868 [main] INFO flipkart - Page is closed
+2021-07-12 10:58:55,317 [main] INFO flipkart - url is entered
+2021-07-12 10:58:58,738 [main] INFO flipkart - email is entered
+2021-07-12 10:58:58,980 [main] INFO flipkart - password is entered
+2021-07-12 10:58:59,165 [main] INFO flipkart - login is successfully
+2021-07-12 10:58:59,219 [main] INFO flipkart - Page is closed
+2021-07-12 11:08:33,917 [main] INFO flipkart - url is entered
+2021-07-12 11:08:37,342 [main] INFO flipkart - email is entered
+2021-07-12 11:08:37,590 [main] INFO flipkart - password is entered
+2021-07-12 11:08:37,758 [main] INFO flipkart - login is successfully
+2021-07-12 11:08:41,953 [main] INFO flipkart - my account is clicked
+2021-07-12 11:08:44,999 [main] INFO flipkart - Page is closed
+2021-07-12 11:09:51,741 [main] INFO flipkart - url is entered
+2021-07-12 11:09:55,077 [main] INFO flipkart - email is entered
+2021-07-12 11:09:55,328 [main] INFO flipkart - password is entered
+2021-07-12 11:09:55,495 [main] INFO flipkart - login is successfully
+2021-07-12 11:09:59,012 [main] INFO flipkart - my account is clicked
+2021-07-12 11:10:02,233 [main] INFO flipkart - myprofile is clicked
+2021-07-12 11:10:02,750 [main] INFO flipkart - personal edit button
+2021-07-12 11:10:02,934 [main] INFO flipkart - personal first name enter
+2021-07-12 11:10:03,078 [main] INFO flipkart - personal last name is entered
+2021-07-12 11:10:03,174 [main] INFO flipkart - gender is selected
+2021-07-12 11:10:03,277 [main] INFO flipkart - saved details
+2021-07-12 11:10:08,389 [main] INFO flipkart - Email is edited
+2021-07-12 11:10:08,685 [main] INFO flipkart - email is entered
+2021-07-12 11:10:08,803 [main] INFO flipkart - email is saved
+2021-07-12 11:10:08,815 [main] INFO flipkart - Page is closed
+2021-07-12 11:11:53,470 [main] INFO flipkart - url is entered
+2021-07-12 11:11:57,015 [main] INFO flipkart - email is entered
+2021-07-12 11:11:57,242 [main] INFO flipkart - password is entered
+2021-07-12 11:11:57,459 [main] INFO flipkart - login is successfully
+2021-07-12 11:12:00,640 [main] INFO flipkart - my account is clicked
+2021-07-12 11:12:03,826 [main] INFO flipkart - myprofile is clicked
+2021-07-12 11:12:04,265 [main] INFO flipkart - personal edit button
+2021-07-12 11:12:04,508 [main] INFO flipkart - personal first name enter
+2021-07-12 11:12:04,677 [main] INFO flipkart - personal last name is entered
+2021-07-12 11:12:04,777 [main] INFO flipkart - gender is selected
+2021-07-12 11:12:04,874 [main] INFO flipkart - saved details
+2021-07-12 11:12:09,985 [main] INFO flipkart - Email is edited
+2021-07-12 11:12:10,254 [main] INFO flipkart - email is entered
+2021-07-12 11:12:10,364 [main] INFO flipkart - email is saved
+2021-07-12 11:12:10,380 [main] INFO flipkart - Page is closed
+2021-07-12 11:41:49,155 [main] INFO flipkart - url is entered
+2021-07-12 11:41:52,526 [main] INFO flipkart - email is entered
+2021-07-12 11:41:52,734 [main] INFO flipkart - password is entered
+2021-07-12 11:41:52,900 [main] INFO flipkart - login is successfully
+2021-07-12 11:41:57,290 [main] INFO flipkart - my account is clicked
+2021-07-12 11:42:00,483 [main] INFO flipkart - myprofile is clicked
+2021-07-12 11:42:01,070 [main] INFO flipkart - name is cleared
+2021-07-12 11:42:01,184 [main] INFO flipkart - personal edit button
+2021-07-12 11:42:01,312 [main] INFO flipkart - personal first name enter
+2021-07-12 11:42:01,312 [main] INFO flipkart - last name is clear
+2021-07-12 11:42:01,546 [main] INFO flipkart - personal last name is entered
+2021-07-12 11:42:01,706 [main] INFO flipkart - gender is selected
+2021-07-12 11:42:01,797 [main] INFO flipkart - saved details
+2021-07-12 11:42:06,911 [main] INFO flipkart - Email is edited
+2021-07-12 11:42:07,200 [main] INFO flipkart - email is entered
+2021-07-12 11:42:07,297 [main] INFO flipkart - email is saved
+2021-07-12 11:42:07,311 [main] INFO flipkart - Page is closed
+2021-07-12 12:08:51,590 [main] INFO flipkart - url is entered
+2021-07-12 12:08:55,028 [main] INFO flipkart - email is entered
+2021-07-12 12:08:55,391 [main] INFO flipkart - password is entered
+2021-07-12 12:08:55,572 [main] INFO flipkart - login is successfully
+2021-07-12 12:09:05,638 [main] INFO flipkart - Page is closed
+2021-07-12 12:12:14,615 [main] INFO flipkart - url is entered
+2021-07-12 12:12:18,144 [main] INFO flipkart - email is entered
+2021-07-12 12:12:18,377 [main] INFO flipkart - password is entered
+2021-07-12 12:12:18,542 [main] INFO flipkart - login is successfully
+2021-07-12 12:12:22,376 [main] INFO flipkart - my account is clicked
+2021-07-12 12:12:25,545 [main] INFO flipkart - myprofile is clicked
+2021-07-12 12:12:26,115 [main] INFO flipkart - my address link is clicked
+2021-07-12 12:12:36,253 [main] INFO flipkart - Page is closed
+2021-07-12 12:14:44,653 [main] INFO flipkart - url is entered
+2021-07-12 12:14:48,123 [main] INFO flipkart - email is entered
+2021-07-12 12:14:48,367 [main] INFO flipkart - password is entered
+2021-07-12 12:14:48,525 [main] INFO flipkart - login is successfully
+2021-07-12 12:14:51,907 [main] INFO flipkart - my account is clicked
+2021-07-12 12:14:55,085 [main] INFO flipkart - myprofile is clicked
+2021-07-12 12:14:55,671 [main] INFO flipkart - my address link is clicked
+2021-07-12 12:15:08,816 [main] INFO flipkart - Page is closed
+2021-07-12 12:19:40,765 [main] INFO flipkart - url is entered
+2021-07-12 12:19:44,235 [main] INFO flipkart - email is entered
+2021-07-12 12:19:44,456 [main] INFO flipkart - password is entered
+2021-07-12 12:19:44,626 [main] INFO flipkart - login is successfully
+2021-07-12 12:19:47,929 [main] INFO flipkart - my account is clicked
+2021-07-12 12:19:51,099 [main] INFO flipkart - myprofile is clicked
+2021-07-12 12:19:51,603 [main] INFO flipkart - my address link is clicked
+2021-07-12 12:20:04,721 [main] INFO flipkart - Page is closed
+2021-07-12 12:21:10,535 [main] INFO flipkart - url is entered
+2021-07-12 12:21:13,963 [main] INFO flipkart - email is entered
+2021-07-12 12:21:14,191 [main] INFO flipkart - password is entered
+2021-07-12 12:21:14,386 [main] INFO flipkart - login is successfully
+2021-07-12 12:21:17,699 [main] INFO flipkart - my account is clicked
+2021-07-12 12:21:20,916 [main] INFO flipkart - myprofile is clicked
+2021-07-12 12:21:21,447 [main] INFO flipkart - my address link is clicked
+2021-07-12 12:21:36,567 [main] INFO flipkart - Page is closed
+2021-07-12 12:26:59,861 [main] INFO flipkart - url is entered
+2021-07-12 12:27:03,335 [main] INFO flipkart - email is entered
+2021-07-12 12:27:03,563 [main] INFO flipkart - password is entered
+2021-07-12 12:27:03,737 [main] INFO flipkart - login is successfully
+2021-07-12 12:27:07,097 [main] INFO flipkart - my account is clicked
+2021-07-12 12:27:10,361 [main] INFO flipkart - myprofile is clicked
+2021-07-12 12:27:10,854 [main] INFO flipkart - my address link is clicked
+2021-07-12 12:27:16,155 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 12:27:16,344 [main] INFO flipkart - name is added to address box
+2021-07-12 12:27:16,359 [main] INFO flipkart - Page is closed
+2021-07-12 13:29:48,813 [main] INFO flipkart - url is entered
+2021-07-12 13:29:52,345 [main] INFO flipkart - email is entered
+2021-07-12 13:29:52,598 [main] INFO flipkart - password is entered
+2021-07-12 13:29:52,823 [main] INFO flipkart - login is successfully
+2021-07-12 13:29:56,203 [main] INFO flipkart - my account is clicked
+2021-07-12 13:29:59,388 [main] INFO flipkart - myprofile is clicked
+2021-07-12 13:29:59,934 [main] INFO flipkart - my address link is clicked
+2021-07-12 13:30:05,147 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 13:30:05,320 [main] INFO flipkart - name is added to address box
+2021-07-12 13:30:05,610 [main] INFO flipkart - New Phone nummber added
+2021-07-12 13:30:05,798 [main] INFO flipkart - Pincode is added
+2021-07-12 13:30:06,036 [main] INFO flipkart - locality is added
+2021-07-12 13:30:06,504 [main] INFO flipkart - address is added
+2021-07-12 13:30:06,692 [main] INFO flipkart - cityName is added
+2021-07-12 13:30:06,836 [main] INFO flipkart - stateName is sreached
+2021-07-12 13:30:06,939 [main] INFO flipkart - stateName is selected
+2021-07-12 13:30:07,216 [main] INFO flipkart - landmark is added
+2021-07-12 13:30:07,415 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 13:30:17,506 [main] INFO flipkart - Page is closed
+2021-07-12 13:35:47,937 [main] INFO flipkart - url is entered
+2021-07-12 13:35:51,658 [main] INFO flipkart - email is entered
+2021-07-12 13:35:51,892 [main] INFO flipkart - password is entered
+2021-07-12 13:35:52,089 [main] INFO flipkart - login is successfully
+2021-07-12 13:35:56,620 [main] INFO flipkart - my account is clicked
+2021-07-12 13:35:59,886 [main] INFO flipkart - myprofile is clicked
+2021-07-12 13:36:00,435 [main] INFO flipkart - my address link is clicked
+2021-07-12 13:36:05,747 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 13:36:05,933 [main] INFO flipkart - name is added to address box
+2021-07-12 13:36:06,194 [main] INFO flipkart - New Phone nummber added
+2021-07-12 13:36:06,422 [main] INFO flipkart - Pincode is added
+2021-07-12 13:36:06,659 [main] INFO flipkart - locality is added
+2021-07-12 13:36:07,077 [main] INFO flipkart - address is added
+2021-07-12 13:36:07,272 [main] INFO flipkart - cityName is added
+2021-07-12 13:36:07,426 [main] INFO flipkart - stateName is sreached
+2021-07-12 13:36:07,550 [main] INFO flipkart - stateName is selected
+2021-07-12 13:36:07,837 [main] INFO flipkart - landmark is added
+2021-07-12 13:36:08,028 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 13:36:18,144 [main] INFO flipkart - Page is closed
+2021-07-12 13:38:09,954 [main] INFO flipkart - url is entered
+2021-07-12 13:38:13,561 [main] INFO flipkart - email is entered
+2021-07-12 13:38:13,772 [main] INFO flipkart - password is entered
+2021-07-12 13:38:13,942 [main] INFO flipkart - login is successfully
+2021-07-12 13:38:17,456 [main] INFO flipkart - my account is clicked
+2021-07-12 13:38:20,693 [main] INFO flipkart - myprofile is clicked
+2021-07-12 13:38:21,245 [main] INFO flipkart - my address link is clicked
+2021-07-12 13:38:26,453 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 13:38:26,620 [main] INFO flipkart - name is added to address box
+2021-07-12 13:38:26,882 [main] INFO flipkart - New Phone nummber added
+2021-07-12 13:38:27,080 [main] INFO flipkart - Pincode is added
+2021-07-12 13:38:27,338 [main] INFO flipkart - locality is added
+2021-07-12 13:38:27,751 [main] INFO flipkart - address is added
+2021-07-12 13:38:27,945 [main] INFO flipkart - cityName is added
+2021-07-12 13:38:28,081 [main] INFO flipkart - stateName is sreached
+2021-07-12 13:38:28,196 [main] INFO flipkart - stateName is selected
+2021-07-12 13:38:28,465 [main] INFO flipkart - landmark is added
+2021-07-12 13:38:28,693 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 13:38:28,823 [main] INFO flipkart - type of address is selected home
+2021-07-12 13:38:28,926 [main] INFO flipkart - Saved all detiles
+2021-07-12 13:38:33,953 [main] INFO flipkart - Page is closed
+2021-07-12 14:02:04,124 [main] INFO flipkart - url is entered
+2021-07-12 14:02:07,577 [main] INFO flipkart - email is entered
+2021-07-12 14:02:07,822 [main] INFO flipkart - password is entered
+2021-07-12 14:02:07,979 [main] INFO flipkart - login is successfully
+2021-07-12 14:02:13,024 [main] INFO flipkart - title is matched
+2021-07-12 14:02:39,253 [main] INFO flipkart - Page is closed
+2021-07-12 15:42:35,367 [main] INFO flipkart - url is entered
+2021-07-12 15:42:38,896 [main] INFO flipkart - email is entered
+2021-07-12 15:42:39,203 [main] INFO flipkart - password is entered
+2021-07-12 15:42:39,466 [main] INFO flipkart - login is successfully
+2021-07-12 15:42:43,393 [main] INFO flipkart - my account is clicked
+2021-07-12 15:42:46,594 [main] INFO flipkart - myprofile is clicked
+2021-07-12 15:42:47,068 [main] INFO flipkart - name is cleared
+2021-07-12 15:42:47,207 [main] INFO flipkart - personal edit button
+2021-07-12 15:42:47,326 [main] INFO flipkart - personal first name enter
+2021-07-12 15:42:47,327 [main] INFO flipkart - last name is clear
+2021-07-12 15:42:47,521 [main] INFO flipkart - personal last name is entered
+2021-07-12 15:42:47,616 [main] INFO flipkart - gender is selected
+2021-07-12 15:42:47,736 [main] INFO flipkart - saved details
+2021-07-12 15:42:52,889 [main] INFO flipkart - Email is edited
+2021-07-12 15:42:53,159 [main] INFO flipkart - email is entered
+2021-07-12 15:42:53,259 [main] INFO flipkart - email is saved
+2021-07-12 15:43:06,332 [main] INFO flipkart - Page is closed
+2021-07-12 15:44:40,395 [main] INFO flipkart - url is entered
+2021-07-12 15:44:44,007 [main] INFO flipkart - email is entered
+2021-07-12 15:44:44,261 [main] INFO flipkart - password is entered
+2021-07-12 15:44:44,429 [main] INFO flipkart - login is successfully
+2021-07-12 15:44:48,585 [main] INFO flipkart - my account is clicked
+2021-07-12 15:44:51,821 [main] INFO flipkart - myprofile is clicked
+2021-07-12 15:44:52,310 [main] INFO flipkart - name is cleared
+2021-07-12 15:44:52,411 [main] INFO flipkart - personal edit button
+2021-07-12 15:44:52,529 [main] INFO flipkart - personal first name enter
+2021-07-12 15:44:52,529 [main] INFO flipkart - last name is clear
+2021-07-12 15:44:52,731 [main] INFO flipkart - personal last name is entered
+2021-07-12 15:44:52,852 [main] INFO flipkart - gender is selected
+2021-07-12 15:44:52,966 [main] INFO flipkart - saved details
+2021-07-12 15:44:58,078 [main] INFO flipkart - Email is edited
+2021-07-12 15:44:58,379 [main] INFO flipkart - email is entered
+2021-07-12 15:44:58,486 [main] INFO flipkart - email is saved
+2021-07-12 15:45:11,638 [main] INFO flipkart - Page is closed
+2021-07-12 15:50:53,509 [main] INFO flipkart - url is entered
+2021-07-12 15:50:56,967 [main] INFO flipkart - email is entered
+2021-07-12 15:50:57,181 [main] INFO flipkart - password is entered
+2021-07-12 15:50:57,346 [main] INFO flipkart - login is successfully
+2021-07-12 15:51:00,951 [main] INFO flipkart - my account is clicked
+2021-07-12 15:51:04,127 [main] INFO flipkart - myprofile is clicked
+2021-07-12 15:51:04,640 [main] INFO flipkart - name is cleared
+2021-07-12 15:51:04,748 [main] INFO flipkart - personal edit button
+2021-07-12 15:51:04,886 [main] INFO flipkart - personal first name enter
+2021-07-12 15:51:04,886 [main] INFO flipkart - last name is clear
+2021-07-12 15:51:05,077 [main] INFO flipkart - personal last name is entered
+2021-07-12 15:51:05,176 [main] INFO flipkart - gender is selected
+2021-07-12 15:51:05,313 [main] INFO flipkart - saved details
+2021-07-12 15:51:10,432 [main] INFO flipkart - Email is edited
+2021-07-12 15:51:10,434 [main] INFO flipkart - email is entered
+2021-07-12 15:51:10,595 [main] INFO flipkart - email is saved
+2021-07-12 15:51:23,811 [main] INFO flipkart - Page is closed
+2021-07-12 16:00:37,953 [main] INFO flipkart - url is entered
+2021-07-12 16:00:41,399 [main] INFO flipkart - email is entered
+2021-07-12 16:00:41,641 [main] INFO flipkart - password is entered
+2021-07-12 16:00:41,824 [main] INFO flipkart - login is successfully
+2021-07-12 16:00:45,363 [main] INFO flipkart - my account is clicked
+2021-07-12 16:00:48,548 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:00:49,153 [main] INFO flipkart - name is cleared
+2021-07-12 16:00:49,298 [main] INFO flipkart - personal edit button
+2021-07-12 16:00:49,428 [main] INFO flipkart - personal first name enter
+2021-07-12 16:00:49,429 [main] INFO flipkart - last name is clear
+2021-07-12 16:00:49,639 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:00:49,756 [main] INFO flipkart - gender is selected
+2021-07-12 16:00:49,849 [main] INFO flipkart - saved details
+2021-07-12 16:00:54,862 [main] INFO flipkart - Email is edited
+2021-07-12 16:00:54,863 [main] INFO flipkart - email is entered
+2021-07-12 16:01:18,046 [main] INFO flipkart - Page is closed
+2021-07-12 16:19:56,775 [main] INFO flipkart - url is entered
+2021-07-12 16:20:00,203 [main] INFO flipkart - email is entered
+2021-07-12 16:20:00,449 [main] INFO flipkart - password is entered
+2021-07-12 16:20:00,613 [main] INFO flipkart - login is successfully
+2021-07-12 16:20:03,852 [main] INFO flipkart - my account is clicked
+2021-07-12 16:20:07,010 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:20:07,436 [main] INFO flipkart - name is cleared
+2021-07-12 16:20:07,568 [main] INFO flipkart - personal edit button
+2021-07-12 16:20:07,708 [main] INFO flipkart - personal first name enter
+2021-07-12 16:20:07,708 [main] INFO flipkart - last name is clear
+2021-07-12 16:20:07,956 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:20:08,072 [main] INFO flipkart - gender is selected
+2021-07-12 16:20:08,165 [main] INFO flipkart - saved details
+2021-07-12 16:20:13,172 [main] INFO flipkart - Email is edited
+2021-07-12 16:20:13,173 [main] INFO flipkart - email is entered
+2021-07-12 16:20:23,244 [main] INFO flipkart - Page is closed
+2021-07-12 16:21:10,638 [main] INFO flipkart - url is entered
+2021-07-12 16:21:14,058 [main] INFO flipkart - email is entered
+2021-07-12 16:21:14,292 [main] INFO flipkart - password is entered
+2021-07-12 16:21:14,455 [main] INFO flipkart - login is successfully
+2021-07-12 16:21:17,526 [main] INFO flipkart - my account is clicked
+2021-07-12 16:21:20,697 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:21:21,253 [main] INFO flipkart - name is cleared
+2021-07-12 16:21:21,373 [main] INFO flipkart - personal edit button
+2021-07-12 16:21:21,541 [main] INFO flipkart - personal first name enter
+2021-07-12 16:21:21,541 [main] INFO flipkart - last name is clear
+2021-07-12 16:21:21,838 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:21:21,998 [main] INFO flipkart - gender is selected
+2021-07-12 16:21:22,155 [main] INFO flipkart - saved details
+2021-07-12 16:21:27,168 [main] INFO flipkart - Email is edited
+2021-07-12 16:21:27,169 [main] INFO flipkart - email is entered
+2021-07-12 16:21:37,255 [main] INFO flipkart - Page is closed
+2021-07-12 16:22:48,405 [main] INFO flipkart - url is entered
+2021-07-12 16:22:51,799 [main] INFO flipkart - email is entered
+2021-07-12 16:22:52,020 [main] INFO flipkart - password is entered
+2021-07-12 16:22:52,230 [main] INFO flipkart - login is successfully
+2021-07-12 16:22:56,059 [main] INFO flipkart - my account is clicked
+2021-07-12 16:22:59,240 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:22:59,773 [main] INFO flipkart - name is cleared
+2021-07-12 16:22:59,879 [main] INFO flipkart - personal edit button
+2021-07-12 16:23:00,023 [main] INFO flipkart - personal first name enter
+2021-07-12 16:23:00,023 [main] INFO flipkart - last name is clear
+2021-07-12 16:23:00,236 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:23:00,375 [main] INFO flipkart - gender is selected
+2021-07-12 16:23:00,461 [main] INFO flipkart - saved details
+2021-07-12 16:23:05,475 [main] INFO flipkart - Email is edited
+2021-07-12 16:23:05,476 [main] INFO flipkart - email is entered
+2021-07-12 16:23:05,477 [main] INFO flipkart - email is saved
+2021-07-12 16:23:05,778 [main] INFO flipkart - logout is successfull
+2021-07-12 16:23:05,791 [main] INFO flipkart - Page is closed
+2021-07-12 16:25:59,618 [main] INFO flipkart - url is entered
+2021-07-12 16:26:03,074 [main] INFO flipkart - email is entered
+2021-07-12 16:26:03,329 [main] INFO flipkart - password is entered
+2021-07-12 16:26:03,489 [main] INFO flipkart - login is successfully
+2021-07-12 16:26:08,187 [main] INFO flipkart - my account is clicked
+2021-07-12 16:26:11,361 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:26:11,847 [main] INFO flipkart - name is cleared
+2021-07-12 16:26:11,961 [main] INFO flipkart - personal edit button
+2021-07-12 16:26:12,089 [main] INFO flipkart - personal first name enter
+2021-07-12 16:26:12,090 [main] INFO flipkart - last name is clear
+2021-07-12 16:26:12,300 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:26:12,393 [main] INFO flipkart - gender is selected
+2021-07-12 16:26:12,493 [main] INFO flipkart - saved details
+2021-07-12 16:26:17,507 [main] INFO flipkart - Email is edited
+2021-07-12 16:26:17,508 [main] INFO flipkart - email is entered
+2021-07-12 16:26:17,509 [main] INFO flipkart - email is saved
+2021-07-12 16:26:17,769 [main] INFO flipkart - logout is successfull
+2021-07-12 16:26:21,068 [main] INFO flipkart - email is entered
+2021-07-12 16:26:21,294 [main] INFO flipkart - password is entered
+2021-07-12 16:26:21,442 [main] INFO flipkart - login is successfully
+2021-07-12 16:26:24,814 [main] INFO flipkart - my account is clicked
+2021-07-12 16:26:27,991 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:26:28,505 [main] INFO flipkart - my address link is clicked
+2021-07-12 16:26:33,672 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 16:26:33,823 [main] INFO flipkart - name is added to address box
+2021-07-12 16:26:34,079 [main] INFO flipkart - New Phone nummber added
+2021-07-12 16:26:34,287 [main] INFO flipkart - Pincode is added
+2021-07-12 16:26:34,533 [main] INFO flipkart - locality is added
+2021-07-12 16:26:34,957 [main] INFO flipkart - address is added
+2021-07-12 16:26:35,147 [main] INFO flipkart - cityName is added
+2021-07-12 16:26:35,358 [main] INFO flipkart - stateName is searched
+2021-07-12 16:26:35,477 [main] INFO flipkart - stateName is selected
+2021-07-12 16:26:35,819 [main] INFO flipkart - landmark is added
+2021-07-12 16:26:36,008 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 16:26:36,111 [main] INFO flipkart - type of address is selected home
+2021-07-12 16:26:36,209 [main] INFO flipkart - Saved all detailes
+2021-07-12 16:26:41,263 [main] INFO flipkart - Page is closed
+2021-07-12 16:33:40,888 [main] INFO flipkart - url is entered
+2021-07-12 16:33:44,333 [main] INFO flipkart - email is entered
+2021-07-12 16:33:44,581 [main] INFO flipkart - password is entered
+2021-07-12 16:33:44,759 [main] INFO flipkart - login is successfully
+2021-07-12 16:33:49,813 [main] INFO flipkart - title is matched
+2021-07-12 16:34:16,057 [main] INFO flipkart - Page is closed
+2021-07-12 16:40:24,860 [main] INFO flipkart - url is entered
+2021-07-12 16:40:28,348 [main] INFO flipkart - email is entered
+2021-07-12 16:40:28,564 [main] INFO flipkart - password is entered
+2021-07-12 16:40:28,760 [main] INFO flipkart - login is successfully
+2021-07-12 16:40:33,805 [main] INFO flipkart - title is matched
+2021-07-12 16:40:34,211 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 16:40:37,545 [main] INFO flipkart - email is entered
+2021-07-12 16:40:37,743 [main] INFO flipkart - password is entered
+2021-07-12 16:40:37,886 [main] INFO flipkart - login is successfully
+2021-07-12 16:40:51,735 [main] INFO flipkart - Page is closed
+2021-07-12 16:46:10,188 [main] INFO flipkart - url is entered
+2021-07-12 16:46:13,607 [main] INFO flipkart - email is entered
+2021-07-12 16:46:13,831 [main] INFO flipkart - password is entered
+2021-07-12 16:46:13,999 [main] INFO flipkart - login is successfully
+2021-07-12 16:46:19,053 [main] INFO flipkart - title is matched
+2021-07-12 16:46:19,445 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 16:46:22,801 [main] INFO flipkart - email is entered
+2021-07-12 16:46:22,982 [main] INFO flipkart - password is entered
+2021-07-12 16:46:23,121 [main] INFO flipkart - login is successfully
+2021-07-12 16:46:29,371 [main] INFO flipkart - my account is clicked
+2021-07-12 16:46:32,513 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:46:33,112 [main] INFO flipkart - name is cleared
+2021-07-12 16:46:33,233 [main] INFO flipkart - personal edit button
+2021-07-12 16:46:33,362 [main] INFO flipkart - personal first name enter
+2021-07-12 16:46:33,363 [main] INFO flipkart - last name is clear
+2021-07-12 16:46:33,553 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:46:33,651 [main] INFO flipkart - gender is selected
+2021-07-12 16:46:33,737 [main] INFO flipkart - saved details
+2021-07-12 16:46:38,744 [main] INFO flipkart - Email is edited
+2021-07-12 16:46:38,745 [main] INFO flipkart - email is entered
+2021-07-12 16:46:38,745 [main] INFO flipkart - email is saved
+2021-07-12 16:46:39,017 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 16:46:42,191 [main] INFO flipkart - email is entered
+2021-07-12 16:46:42,360 [main] INFO flipkart - password is entered
+2021-07-12 16:46:42,518 [main] INFO flipkart - login is successfully
+2021-07-12 16:46:45,103 [main] INFO flipkart - my account is clicked
+2021-07-12 16:46:48,266 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:46:48,671 [main] INFO flipkart - my address link is clicked
+2021-07-12 16:46:53,848 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 16:46:54,022 [main] INFO flipkart - name is added to address box
+2021-07-12 16:46:54,323 [main] INFO flipkart - New Phone nummber added
+2021-07-12 16:46:54,490 [main] INFO flipkart - Pincode is added
+2021-07-12 16:46:54,700 [main] INFO flipkart - locality is added
+2021-07-12 16:46:55,142 [main] INFO flipkart - address is added
+2021-07-12 16:46:55,321 [main] INFO flipkart - cityName is added
+2021-07-12 16:46:55,450 [main] INFO flipkart - stateName is searched
+2021-07-12 16:46:55,553 [main] INFO flipkart - stateName is selected
+2021-07-12 16:46:55,808 [main] INFO flipkart - landmark is added
+2021-07-12 16:46:55,984 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 16:46:56,101 [main] INFO flipkart - type of address is selected home
+2021-07-12 16:46:56,227 [main] INFO flipkart - Saved all detailes
+2021-07-12 16:47:01,256 [main] INFO flipkart - Page is closed
+2021-07-12 16:49:04,313 [main] INFO flipkart - url is entered
+2021-07-12 16:49:07,746 [main] INFO flipkart - email is entered
+2021-07-12 16:49:07,968 [main] INFO flipkart - password is entered
+2021-07-12 16:49:08,146 [main] INFO flipkart - login is successfully
+2021-07-12 16:49:13,190 [main] INFO flipkart - title is matched
+2021-07-12 16:49:13,605 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 16:49:16,794 [main] INFO flipkart - email is entered
+2021-07-12 16:49:16,948 [main] INFO flipkart - password is entered
+2021-07-12 16:49:17,098 [main] INFO flipkart - login is successfully
+2021-07-12 16:49:23,349 [main] INFO flipkart - my account is clicked
+2021-07-12 16:49:26,500 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:49:27,060 [main] INFO flipkart - name is cleared
+2021-07-12 16:49:27,165 [main] INFO flipkart - personal edit button
+2021-07-12 16:49:27,287 [main] INFO flipkart - personal first name enter
+2021-07-12 16:49:27,287 [main] INFO flipkart - last name is clear
+2021-07-12 16:49:27,491 [main] INFO flipkart - personal last name is entered
+2021-07-12 16:49:27,597 [main] INFO flipkart - gender is selected
+2021-07-12 16:49:27,687 [main] INFO flipkart - saved details
+2021-07-12 16:49:32,689 [main] INFO flipkart - Email is edited
+2021-07-12 16:49:32,691 [main] INFO flipkart - email is entered
+2021-07-12 16:49:32,692 [main] INFO flipkart - email is saved
+2021-07-12 16:49:32,944 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 16:49:36,119 [main] INFO flipkart - email is entered
+2021-07-12 16:49:36,290 [main] INFO flipkart - password is entered
+2021-07-12 16:49:36,421 [main] INFO flipkart - login is successfully
+2021-07-12 16:49:39,571 [main] INFO flipkart - my account is clicked
+2021-07-12 16:49:42,758 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:49:43,182 [main] INFO flipkart - my address link is clicked
+2021-07-12 16:49:48,376 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 16:49:48,592 [main] INFO flipkart - name is added to address box
+2021-07-12 16:49:48,837 [main] INFO flipkart - New Phone nummber added
+2021-07-12 16:49:48,997 [main] INFO flipkart - Pincode is added
+2021-07-12 16:49:49,276 [main] INFO flipkart - locality is added
+2021-07-12 16:49:49,689 [main] INFO flipkart - address is added
+2021-07-12 16:49:49,880 [main] INFO flipkart - cityName is added
+2021-07-12 16:49:50,001 [main] INFO flipkart - stateName is searched
+2021-07-12 16:49:50,106 [main] INFO flipkart - stateName is selected
+2021-07-12 16:49:50,403 [main] INFO flipkart - landmark is added
+2021-07-12 16:49:50,621 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 16:49:50,720 [main] INFO flipkart - type of address is selected home
+2021-07-12 16:49:50,828 [main] INFO flipkart - Saved all detailes
+2021-07-12 16:49:53,875 [main] INFO flipkart - Page is closed
+2021-07-12 16:59:30,085 [main] INFO flipkart - url is entered
+2021-07-12 16:59:33,553 [main] INFO flipkart - email is entered
+2021-07-12 16:59:33,812 [main] INFO flipkart - password is entered
+2021-07-12 16:59:33,977 [main] INFO flipkart - login is successfully
+2021-07-12 16:59:36,964 [main] INFO flipkart - my account is clicked
+2021-07-12 16:59:40,133 [main] INFO flipkart - myprofile is clicked
+2021-07-12 16:59:40,672 [main] INFO flipkart - my address link is clicked
+2021-07-12 16:59:45,854 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 16:59:46,014 [main] INFO flipkart - name is added to address box
+2021-07-12 16:59:46,276 [main] INFO flipkart - New Phone nummber added
+2021-07-12 16:59:46,462 [main] INFO flipkart - Pincode is added
+2021-07-12 16:59:46,704 [main] INFO flipkart - locality is added
+2021-07-12 16:59:47,130 [main] INFO flipkart - address is added
+2021-07-12 16:59:47,334 [main] INFO flipkart - cityName is added
+2021-07-12 16:59:47,472 [main] INFO flipkart - stateName is searched
+2021-07-12 16:59:47,591 [main] INFO flipkart - stateName is selected
+2021-07-12 16:59:47,896 [main] INFO flipkart - landmark is added
+2021-07-12 16:59:48,072 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 16:59:48,208 [main] INFO flipkart - type of address is selected home
+2021-07-12 16:59:48,323 [main] INFO flipkart - cancel all detailes
+2021-07-12 16:59:48,358 [main] INFO flipkart - Page is closed
+2021-07-12 17:01:51,968 [main] INFO flipkart - url is entered
+2021-07-12 17:01:55,398 [main] INFO flipkart - email is entered
+2021-07-12 17:01:55,608 [main] INFO flipkart - password is entered
+2021-07-12 17:01:55,803 [main] INFO flipkart - login is successfully
+2021-07-12 17:02:00,847 [main] INFO flipkart - title is matched
+2021-07-12 17:02:01,259 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:02:04,585 [main] INFO flipkart - email is entered
+2021-07-12 17:02:04,786 [main] INFO flipkart - password is entered
+2021-07-12 17:02:04,925 [main] INFO flipkart - login is successfully
+2021-07-12 17:02:11,188 [main] INFO flipkart - my account is clicked
+2021-07-12 17:02:14,364 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:02:15,190 [main] INFO flipkart - name is cleared
+2021-07-12 17:02:15,300 [main] INFO flipkart - personal edit button
+2021-07-12 17:02:15,439 [main] INFO flipkart - personal first name enter
+2021-07-12 17:02:15,440 [main] INFO flipkart - last name is clear
+2021-07-12 17:02:15,631 [main] INFO flipkart - personal last name is entered
+2021-07-12 17:02:15,727 [main] INFO flipkart - gender is selected
+2021-07-12 17:02:15,839 [main] INFO flipkart - saved details
+2021-07-12 17:02:20,850 [main] INFO flipkart - Email is edited
+2021-07-12 17:02:20,851 [main] INFO flipkart - email is entered
+2021-07-12 17:02:20,852 [main] INFO flipkart - email is saved
+2021-07-12 17:02:21,124 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 17:02:24,296 [main] INFO flipkart - email is entered
+2021-07-12 17:02:24,452 [main] INFO flipkart - password is entered
+2021-07-12 17:02:24,595 [main] INFO flipkart - login is successfully
+2021-07-12 17:02:27,559 [main] INFO flipkart - my account is clicked
+2021-07-12 17:02:30,757 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:02:31,148 [main] INFO flipkart - my address link is clicked
+2021-07-12 17:02:36,348 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 17:02:36,503 [main] INFO flipkart - name is added to address box
+2021-07-12 17:02:36,781 [main] INFO flipkart - New Phone nummber added
+2021-07-12 17:02:36,956 [main] INFO flipkart - Pincode is added
+2021-07-12 17:02:37,184 [main] INFO flipkart - locality is added
+2021-07-12 17:02:37,620 [main] INFO flipkart - address is added
+2021-07-12 17:02:37,819 [main] INFO flipkart - cityName is added
+2021-07-12 17:02:37,946 [main] INFO flipkart - stateName is searched
+2021-07-12 17:02:38,048 [main] INFO flipkart - stateName is selected
+2021-07-12 17:02:38,310 [main] INFO flipkart - landmark is added
+2021-07-12 17:02:38,531 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 17:02:38,658 [main] INFO flipkart - type of address is selected home
+2021-07-12 17:02:38,761 [main] INFO flipkart - cancel all detailes
+2021-07-12 17:02:38,995 [main] INFO flipkart - logout is successful for 3rd testcase
+2021-07-12 17:02:38,998 [main] INFO flipkart - Page is closed
+2021-07-12 17:08:48,960 [main] INFO flipkart - url is entered
+2021-07-12 17:08:52,445 [main] INFO flipkart - email is entered
+2021-07-12 17:08:52,702 [main] INFO flipkart - password is entered
+2021-07-12 17:08:52,899 [main] INFO flipkart - login is successfully
+2021-07-12 17:08:57,951 [main] INFO flipkart - title is matched
+2021-07-12 17:08:57,959 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:09:24,614 [main] INFO flipkart - logout is successful for 3rd testcase
+2021-07-12 17:09:24,615 [main] INFO flipkart - Page is closed
+2021-07-12 17:12:33,114 [main] INFO flipkart - url is entered
+2021-07-12 17:12:36,671 [main] INFO flipkart - email is entered
+2021-07-12 17:12:36,924 [main] INFO flipkart - password is entered
+2021-07-12 17:12:37,115 [main] INFO flipkart - login is successfully
+2021-07-12 17:12:42,158 [main] INFO flipkart - title is matched
+2021-07-12 17:15:31,253 [main] INFO flipkart - url is entered
+2021-07-12 17:15:34,661 [main] INFO flipkart - email is entered
+2021-07-12 17:15:34,918 [main] INFO flipkart - password is entered
+2021-07-12 17:15:35,073 [main] INFO flipkart - login is successfully
+2021-07-12 17:15:40,123 [main] INFO flipkart - title is matched
+2021-07-12 17:15:40,507 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:15:43,758 [main] INFO flipkart - email is entered
+2021-07-12 17:15:43,959 [main] INFO flipkart - password is entered
+2021-07-12 17:15:44,092 [main] INFO flipkart - login is successfully
+2021-07-12 17:15:50,368 [main] INFO flipkart - my account is clicked
+2021-07-12 17:15:53,524 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:15:54,024 [main] INFO flipkart - name is cleared
+2021-07-12 17:15:54,158 [main] INFO flipkart - personal edit button
+2021-07-12 17:15:54,278 [main] INFO flipkart - personal first name enter
+2021-07-12 17:15:54,279 [main] INFO flipkart - last name is clear
+2021-07-12 17:15:54,492 [main] INFO flipkart - personal last name is entered
+2021-07-12 17:15:54,593 [main] INFO flipkart - gender is selected
+2021-07-12 17:15:54,688 [main] INFO flipkart - saved details
+2021-07-12 17:15:59,695 [main] INFO flipkart - Email is edited
+2021-07-12 17:15:59,696 [main] INFO flipkart - email is entered
+2021-07-12 17:15:59,697 [main] INFO flipkart - email is saved
+2021-07-12 17:15:59,953 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 17:16:03,127 [main] INFO flipkart - email is entered
+2021-07-12 17:16:03,284 [main] INFO flipkart - password is entered
+2021-07-12 17:16:03,427 [main] INFO flipkart - login is successfully
+2021-07-12 17:16:06,857 [main] INFO flipkart - my account is clicked
+2021-07-12 17:16:10,038 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:16:10,394 [main] INFO flipkart - my address link is clicked
+2021-07-12 17:16:15,581 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 17:16:15,743 [main] INFO flipkart - name is added to address box
+2021-07-12 17:16:16,037 [main] INFO flipkart - New Phone nummber added
+2021-07-12 17:16:16,197 [main] INFO flipkart - Pincode is added
+2021-07-12 17:16:16,408 [main] INFO flipkart - locality is added
+2021-07-12 17:16:16,825 [main] INFO flipkart - address is added
+2021-07-12 17:16:17,021 [main] INFO flipkart - cityName is added
+2021-07-12 17:16:17,149 [main] INFO flipkart - stateName is searched
+2021-07-12 17:16:17,276 [main] INFO flipkart - stateName is selected
+2021-07-12 17:16:17,528 [main] INFO flipkart - landmark is added
+2021-07-12 17:16:17,707 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 17:16:17,806 [main] INFO flipkart - type of address is selected home
+2021-07-12 17:16:17,940 [main] INFO flipkart - cancel all detailes
+2021-07-12 17:16:18,222 [main] INFO flipkart - logout is successful for 3rd testcase
+2021-07-12 17:19:26,527 [main] INFO flipkart - url is entered
+2021-07-12 17:19:27,246 [main] INFO flipkart - email is entered
+2021-07-12 17:19:27,512 [main] INFO flipkart - password is entered
+2021-07-12 17:19:27,717 [main] INFO flipkart - login is successfully
+2021-07-12 17:19:27,745 [main] INFO flipkart - title is matched
+2021-07-12 17:19:31,563 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:19:34,574 [main] INFO flipkart - email is entered
+2021-07-12 17:19:34,782 [main] INFO flipkart - password is entered
+2021-07-12 17:19:35,041 [main] INFO flipkart - login is successfully
+2021-07-12 17:19:38,991 [main] INFO flipkart - my account is clicked
+2021-07-12 17:19:39,154 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:19:39,660 [main] INFO flipkart - name is cleared
+2021-07-12 17:19:39,756 [main] INFO flipkart - personal edit button
+2021-07-12 17:19:39,879 [main] INFO flipkart - personal first name enter
+2021-07-12 17:19:39,880 [main] INFO flipkart - last name is clear
+2021-07-12 17:19:40,067 [main] INFO flipkart - personal last name is entered
+2021-07-12 17:19:40,167 [main] INFO flipkart - gender is selected
+2021-07-12 17:19:40,266 [main] INFO flipkart - saved details
+2021-07-12 17:19:40,267 [main] INFO flipkart - Email is edited
+2021-07-12 17:19:40,267 [main] INFO flipkart - email is entered
+2021-07-12 17:19:40,268 [main] INFO flipkart - email is saved
+2021-07-12 17:19:40,509 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 17:19:43,214 [main] INFO flipkart - email is entered
+2021-07-12 17:19:43,415 [main] INFO flipkart - password is entered
+2021-07-12 17:19:43,574 [main] INFO flipkart - login is successfully
+2021-07-12 17:19:43,865 [main] INFO flipkart - Page is closed
+2021-07-12 17:23:30,353 [main] INFO flipkart - url is entered
+2021-07-12 17:23:31,318 [main] INFO flipkart - email is entered
+2021-07-12 17:23:31,637 [main] INFO flipkart - password is entered
+2021-07-12 17:23:31,878 [main] INFO flipkart - login is successfully
+2021-07-12 17:23:31,922 [main] INFO flipkart - title is matched
+2021-07-12 17:23:35,800 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:23:40,612 [main] INFO flipkart - email is entered
+2021-07-12 17:23:40,842 [main] INFO flipkart - password is entered
+2021-07-12 17:23:41,024 [main] INFO flipkart - login is successfully
+2021-07-12 17:23:44,654 [main] INFO flipkart - my account is clicked
+2021-07-12 17:23:44,837 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:23:45,370 [main] INFO flipkart - name is cleared
+2021-07-12 17:23:45,479 [main] INFO flipkart - personal edit button
+2021-07-12 17:23:45,597 [main] INFO flipkart - personal first name enter
+2021-07-12 17:23:45,597 [main] INFO flipkart - last name is clear
+2021-07-12 17:23:45,839 [main] INFO flipkart - personal last name is entered
+2021-07-12 17:23:45,943 [main] INFO flipkart - gender is selected
+2021-07-12 17:23:46,035 [main] INFO flipkart - saved details
+2021-07-12 17:23:46,035 [main] INFO flipkart - Email is edited
+2021-07-12 17:23:46,036 [main] INFO flipkart - email is entered
+2021-07-12 17:23:46,037 [main] INFO flipkart - email is saved
+2021-07-12 17:23:46,302 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-12 17:23:48,567 [main] INFO flipkart - email is entered
+2021-07-12 17:23:48,826 [main] INFO flipkart - password is entered
+2021-07-12 17:23:48,975 [main] INFO flipkart - login is successfully
+2021-07-12 17:23:52,424 [main] INFO flipkart - my account is clicked
+2021-07-12 17:23:55,606 [main] INFO flipkart - myprofile is clicked
+2021-07-12 17:23:56,360 [main] INFO flipkart - my address link is clicked
+2021-07-12 17:24:01,553 [main] INFO flipkart - Add Address button is clicked
+2021-07-12 17:24:01,726 [main] INFO flipkart - name is added to address box
+2021-07-12 17:24:01,968 [main] INFO flipkart - New Phone nummber added
+2021-07-12 17:24:02,152 [main] INFO flipkart - Pincode is added
+2021-07-12 17:24:02,357 [main] INFO flipkart - locality is added
+2021-07-12 17:24:02,810 [main] INFO flipkart - address is added
+2021-07-12 17:24:02,987 [main] INFO flipkart - cityName is added
+2021-07-12 17:24:03,108 [main] INFO flipkart - stateName is searched
+2021-07-12 17:24:03,220 [main] INFO flipkart - stateName is selected
+2021-07-12 17:24:03,585 [main] INFO flipkart - landmark is added
+2021-07-12 17:24:03,810 [main] INFO flipkart - AlternatePhone number is added
+2021-07-12 17:24:03,931 [main] INFO flipkart - type of address is selected home
+2021-07-12 17:24:04,069 [main] INFO flipkart - cancel all detailes
+2021-07-12 17:24:04,296 [main] INFO flipkart - logout is successful for 3rd testcase
+2021-07-12 17:24:04,299 [main] INFO flipkart - Page is closed
+2021-07-12 17:42:09,551 [main] INFO flipkart - url is entered
+2021-07-12 17:42:10,235 [main] INFO flipkart - email is entered
+2021-07-12 17:42:10,483 [main] INFO flipkart - password is entered
+2021-07-12 17:42:10,780 [main] INFO flipkart - login is successfully
+2021-07-12 17:42:10,806 [main] INFO flipkart - title is matched
+2021-07-12 17:42:15,679 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-12 17:42:19,871 [main] INFO flipkart - email is entered
+2021-07-12 17:42:20,034 [main] INFO flipkart - password is entered
+2021-07-12 17:42:20,153 [main] INFO flipkart - login is successfully
+2021-07-12 17:42:33,605 [main] INFO flipkart - Page is closed
+2021-07-12 19:51:19,304 [main] INFO flipkart - url is entered
+2021-07-12 19:51:19,852 [main] INFO flipkart - Page is closed
+2021-07-12 19:51:47,944 [main] INFO flipkart - url is entered
+2021-07-12 19:51:48,505 [main] INFO flipkart - Page is closed
+2021-07-12 19:53:35,650 [main] INFO flipkart - url is entered
+2021-07-12 19:53:42,146 [main] INFO flipkart - Page is closed
+2021-07-12 19:54:59,372 [main] INFO flipkart - url is entered
+2021-07-12 19:55:05,999 [main] INFO flipkart - Page is closed
+2021-07-12 20:46:56,338 [main] INFO flipkart - url is entered
+2021-07-12 20:46:57,483 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 20:46:58,772 [main] INFO flipkart - Page is closed
+2021-07-12 20:48:56,920 [main] INFO flipkart - url is entered
+2021-07-12 20:48:58,681 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 20:48:59,897 [main] INFO flipkart - Page is closed
+2021-07-12 20:54:53,849 [main] INFO flipkart - url is entered
+2021-07-12 20:54:54,949 [main] INFO flipkart - email is entered
+2021-07-12 20:54:55,221 [main] INFO flipkart - password is entered
+2021-07-12 20:54:55,433 [main] INFO flipkart - login is successfully
+2021-07-12 20:54:55,791 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 20:54:59,532 [main] INFO flipkart - Page is closed
+2021-07-12 20:56:20,737 [main] INFO flipkart - url is entered
+2021-07-12 20:56:21,748 [main] INFO flipkart - email is entered
+2021-07-12 20:56:21,980 [main] INFO flipkart - password is entered
+2021-07-12 20:56:22,184 [main] INFO flipkart - login is successfully
+2021-07-12 20:56:22,466 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 20:56:26,166 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 20:56:36,300 [main] INFO flipkart - Page is closed
+2021-07-12 20:57:23,865 [main] INFO flipkart - url is entered
+2021-07-12 20:57:24,469 [main] INFO flipkart - email is entered
+2021-07-12 20:57:24,768 [main] INFO flipkart - password is entered
+2021-07-12 20:57:24,918 [main] INFO flipkart - login is successfully
+2021-07-12 20:57:25,209 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 20:57:28,332 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 20:57:38,430 [main] INFO flipkart - Page is closed
+2021-07-12 21:01:39,404 [main] INFO flipkart - url is entered
+2021-07-12 21:01:39,953 [main] INFO flipkart - email is entered
+2021-07-12 21:01:40,197 [main] INFO flipkart - password is entered
+2021-07-12 21:01:40,409 [main] INFO flipkart - login is successfully
+2021-07-12 21:01:40,667 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 21:01:44,842 [main] INFO flipkart - Page is closed
+2021-07-12 21:08:09,663 [main] INFO flipkart - url is entered
+2021-07-12 21:08:10,152 [main] INFO flipkart - email is entered
+2021-07-12 21:08:10,483 [main] INFO flipkart - password is entered
+2021-07-12 21:08:10,648 [main] INFO flipkart - login is successfully
+2021-07-12 21:08:10,888 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 21:08:17,098 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 21:08:27,203 [main] INFO flipkart - Page is closed
+2021-07-12 21:12:09,119 [main] INFO flipkart - url is entered
+2021-07-12 21:12:09,738 [main] INFO flipkart - email is entered
+2021-07-12 21:12:09,988 [main] INFO flipkart - password is entered
+2021-07-12 21:12:10,196 [main] INFO flipkart - login is successfully
+2021-07-12 21:12:10,490 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 21:12:16,622 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 21:12:25,546 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-12 21:12:25,978 [main] INFO flipkart - minamountclicked clicked
+2021-07-12 21:12:27,231 [main] INFO flipkart - Page is closed
+2021-07-12 21:13:25,633 [main] INFO flipkart - url is entered
+2021-07-12 21:13:26,074 [main] INFO flipkart - email is entered
+2021-07-12 21:13:26,272 [main] INFO flipkart - password is entered
+2021-07-12 21:13:26,481 [main] INFO flipkart - login is successfully
+2021-07-12 21:13:26,763 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 21:13:30,367 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 21:13:46,446 [main] INFO flipkart - Page is closed
+2021-07-12 21:15:11,855 [main] INFO flipkart - url is entered
+2021-07-12 21:15:12,239 [main] INFO flipkart - email is entered
+2021-07-12 21:15:12,446 [main] INFO flipkart - password is entered
+2021-07-12 21:15:12,629 [main] INFO flipkart - login is successfully
+2021-07-12 21:15:12,918 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 21:15:18,067 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 21:15:34,151 [main] INFO flipkart - Page is closed
+2021-07-12 22:20:19,754 [main] INFO flipkart - url is entered
+2021-07-12 22:20:20,482 [main] INFO flipkart - email is entered
+2021-07-12 22:20:20,976 [main] INFO flipkart - password is entered
+2021-07-12 22:20:21,190 [main] INFO flipkart - login is successfully
+2021-07-12 22:20:21,650 [main] INFO flipkart - Page is closed
+2021-07-12 22:21:16,535 [main] INFO flipkart - url is entered
+2021-07-12 22:21:17,082 [main] INFO flipkart - email is entered
+2021-07-12 22:21:17,463 [main] INFO flipkart - password is entered
+2021-07-12 22:21:17,717 [main] INFO flipkart - login is successfully
+2021-07-12 22:21:20,764 [main] INFO flipkart - Page is closed
+2021-07-12 22:23:04,213 [main] INFO flipkart - url is entered
+2021-07-12 22:23:05,102 [main] INFO flipkart - email is entered
+2021-07-12 22:23:05,368 [main] INFO flipkart - password is entered
+2021-07-12 22:23:05,576 [main] INFO flipkart - login is successfully
+2021-07-12 22:23:05,978 [main] INFO flipkart - Page is closed
+2021-07-12 22:24:49,708 [main] INFO flipkart - url is entered
+2021-07-12 22:24:50,376 [main] INFO flipkart - email is entered
+2021-07-12 22:24:50,669 [main] INFO flipkart - password is entered
+2021-07-12 22:24:50,896 [main] INFO flipkart - login is successfully
+2021-07-12 22:24:53,983 [main] INFO flipkart - Page is closed
+2021-07-12 22:26:02,190 [main] INFO flipkart - url is entered
+2021-07-12 22:26:03,103 [main] INFO flipkart - email is entered
+2021-07-12 22:26:03,389 [main] INFO flipkart - password is entered
+2021-07-12 22:26:03,602 [main] INFO flipkart - login is successfully
+2021-07-12 22:26:03,931 [main] INFO flipkart - Searchforproduct entered
+2021-07-12 22:26:09,069 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-12 22:26:25,158 [main] INFO flipkart - Page is closed
+2021-07-13 11:05:30,628 [main] INFO flipkart - url is entered
+2021-07-13 11:05:31,328 [main] INFO flipkart - email is entered
+2021-07-13 11:05:31,748 [main] INFO flipkart - password is entered
+2021-07-13 11:05:32,082 [main] INFO flipkart - login is successfully
+2021-07-13 11:05:32,347 [main] INFO flipkart - Searchforproduct entered
+2021-07-13 11:05:37,462 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-13 11:05:43,666 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:05:53,749 [main] INFO flipkart - Page is closed
+2021-07-13 11:07:21,302 [main] INFO flipkart - url is entered
+2021-07-13 11:07:21,802 [main] INFO flipkart - email is entered
+2021-07-13 11:07:22,030 [main] INFO flipkart - password is entered
+2021-07-13 11:07:22,215 [main] INFO flipkart - login is successfully
+2021-07-13 11:07:22,599 [main] INFO flipkart - Searchforproduct entered
+2021-07-13 11:07:27,705 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-13 11:07:33,905 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:07:44,007 [main] INFO flipkart - Page is closed
+2021-07-13 11:08:15,735 [main] INFO flipkart - url is entered
+2021-07-13 11:08:16,248 [main] INFO flipkart - email is entered
+2021-07-13 11:08:16,525 [main] INFO flipkart - password is entered
+2021-07-13 11:08:16,720 [main] INFO flipkart - login is successfully
+2021-07-13 11:08:17,002 [main] INFO flipkart - Searchforproduct entered
+2021-07-13 11:08:20,001 [main] INFO flipkart - Page is closed
+2021-07-13 11:11:01,349 [main] INFO flipkart - url is entered
+2021-07-13 11:11:01,907 [main] INFO flipkart - email is entered
+2021-07-13 11:11:02,146 [main] INFO flipkart - password is entered
+2021-07-13 11:11:02,394 [main] INFO flipkart - login is successfully
+2021-07-13 11:11:02,813 [main] INFO flipkart - Page is closed
+2021-07-13 11:13:57,487 [main] INFO flipkart - url is entered
+2021-07-13 11:13:57,967 [main] INFO flipkart - email is entered
+2021-07-13 11:13:58,195 [main] INFO flipkart - password is entered
+2021-07-13 11:13:58,373 [main] INFO flipkart - login is successfully
+2021-07-13 11:13:58,684 [main] INFO flipkart - Page is closed
+2021-07-13 11:15:32,233 [main] INFO flipkart - url is entered
+2021-07-13 11:15:32,745 [main] INFO flipkart - email is entered
+2021-07-13 11:15:33,120 [main] INFO flipkart - password is entered
+2021-07-13 11:15:33,324 [main] INFO flipkart - login is successfully
+2021-07-13 11:15:33,627 [main] INFO flipkart - Search for product entered
+2021-07-13 11:15:36,556 [main] INFO flipkart - Page is closed
+2021-07-13 11:16:11,964 [main] INFO flipkart - url is entered
+2021-07-13 11:16:12,688 [main] INFO flipkart - email is entered
+2021-07-13 11:16:12,976 [main] INFO flipkart - password is entered
+2021-07-13 11:16:13,232 [main] INFO flipkart - login is successfully
+2021-07-13 11:16:13,593 [main] INFO flipkart - Search for product entered
+2021-07-13 11:16:18,705 [main] INFO flipkart - searchbuttonclick clicked
+2021-07-13 11:16:24,908 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:16:34,992 [main] INFO flipkart - Page is closed
+2021-07-13 11:17:37,529 [main] INFO flipkart - url is entered
+2021-07-13 11:17:38,351 [main] INFO flipkart - email is entered
+2021-07-13 11:17:38,636 [main] INFO flipkart - password is entered
+2021-07-13 11:17:38,838 [main] INFO flipkart - login is successfully
+2021-07-13 11:17:51,559 [main] INFO flipkart - Page is closed
+2021-07-13 11:18:35,848 [main] INFO flipkart - url is entered
+2021-07-13 11:18:36,417 [main] INFO flipkart - email is entered
+2021-07-13 11:18:36,632 [main] INFO flipkart - password is entered
+2021-07-13 11:18:36,832 [main] INFO flipkart - login is successfully
+2021-07-13 11:18:47,389 [main] INFO flipkart - Page is closed
+2021-07-13 11:21:45,365 [main] INFO flipkart - url is entered
+2021-07-13 11:21:45,945 [main] INFO flipkart - email is entered
+2021-07-13 11:21:46,171 [main] INFO flipkart - password is entered
+2021-07-13 11:21:46,386 [main] INFO flipkart - login is successfully
+2021-07-13 11:21:46,723 [main] INFO flipkart - searched
+2021-07-13 11:21:56,832 [main] INFO flipkart - Page is closed
+2021-07-13 11:29:38,083 [main] INFO flipkart - url is entered
+2021-07-13 11:29:38,572 [main] INFO flipkart - email is entered
+2021-07-13 11:29:38,828 [main] INFO flipkart - password is entered
+2021-07-13 11:29:39,115 [main] INFO flipkart - login is successfully
+2021-07-13 11:29:39,472 [main] INFO flipkart - Search for product entered
+2021-07-13 11:29:50,822 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:29:51,112 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 11:29:52,443 [main] INFO flipkart - Page is closed
+2021-07-13 11:31:10,642 [main] INFO flipkart - url is entered
+2021-07-13 11:31:11,556 [main] INFO flipkart - email is entered
+2021-07-13 11:31:11,777 [main] INFO flipkart - password is entered
+2021-07-13 11:31:11,991 [main] INFO flipkart - login is successfully
+2021-07-13 11:31:12,402 [main] INFO flipkart - Search for product entered
+2021-07-13 11:31:23,761 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:31:24,030 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 11:31:27,318 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 11:31:27,568 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 11:31:28,785 [main] INFO flipkart - Page is closed
+2021-07-13 11:32:54,313 [main] INFO flipkart - url is entered
+2021-07-13 11:32:54,828 [main] INFO flipkart - email is entered
+2021-07-13 11:32:55,118 [main] INFO flipkart - password is entered
+2021-07-13 11:32:55,337 [main] INFO flipkart - login is successfully
+2021-07-13 11:32:59,638 [main] INFO flipkart - Search for product entered
+2021-07-13 11:33:11,019 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:33:11,304 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 11:33:14,587 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 11:33:14,875 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 11:33:18,312 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 11:33:31,412 [main] INFO flipkart - Page is closed
+2021-07-13 11:38:58,992 [main] INFO flipkart - url is entered
+2021-07-13 11:38:59,546 [main] INFO flipkart - email is entered
+2021-07-13 11:39:00,005 [main] INFO flipkart - password is entered
+2021-07-13 11:39:00,244 [main] INFO flipkart - login is successfully
+2021-07-13 11:39:00,686 [main] INFO flipkart - Search for product entered
+2021-07-13 11:39:12,061 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 11:39:12,332 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 11:39:15,586 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 11:39:15,846 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 11:39:19,267 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 11:39:21,880 [main] INFO flipkart - 28+more
+2021-07-13 11:39:25,186 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 11:39:28,406 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 11:39:31,680 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 11:39:32,112 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 11:39:35,307 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 11:39:35,496 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 11:39:38,614 [main] INFO flipkart - Page is closed
+2021-07-13 12:02:22,634 [main] INFO flipkart - url is entered
+2021-07-13 12:02:23,235 [main] INFO flipkart - email is entered
+2021-07-13 12:02:23,520 [main] INFO flipkart - password is entered
+2021-07-13 12:02:23,681 [main] INFO flipkart - login is successfully
+2021-07-13 12:02:29,032 [main] INFO flipkart - Search for product entered
+2021-07-13 12:02:40,403 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:02:40,873 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:02:44,034 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:02:44,420 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:02:47,766 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:02:48,958 [main] INFO flipkart - 28+more
+2021-07-13 12:02:52,209 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:02:55,445 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:02:58,624 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:02:58,811 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:03:01,952 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:03:02,148 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:03:05,354 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:03:05,559 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:03:08,781 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:03:24,191 [main] INFO flipkart - Page is closed
+2021-07-13 12:16:46,604 [main] INFO flipkart - url is entered
+2021-07-13 12:16:47,105 [main] INFO flipkart - email is entered
+2021-07-13 12:16:47,502 [main] INFO flipkart - password is entered
+2021-07-13 12:16:47,688 [main] INFO flipkart - login is successfully
+2021-07-13 12:16:47,987 [main] INFO flipkart - Search for product entered
+2021-07-13 12:16:59,293 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:16:59,571 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:17:02,726 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:17:02,931 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:17:06,216 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:17:07,590 [main] INFO flipkart - 28+more
+2021-07-13 12:17:10,821 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:17:14,096 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:17:17,259 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:17:17,451 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:17:20,615 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:17:20,804 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:17:23,964 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:17:24,189 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:17:27,414 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:17:42,839 [main] INFO flipkart - Page is closed
+2021-07-13 12:18:18,057 [main] INFO flipkart - url is entered
+2021-07-13 12:18:18,668 [main] INFO flipkart - email is entered
+2021-07-13 12:18:18,962 [main] INFO flipkart - password is entered
+2021-07-13 12:18:19,197 [main] INFO flipkart - login is successfully
+2021-07-13 12:18:19,575 [main] INFO flipkart - Search for product entered
+2021-07-13 12:18:30,931 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:18:31,217 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:18:34,432 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:18:34,646 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:18:37,903 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:18:39,020 [main] INFO flipkart - 28+more
+2021-07-13 12:18:42,248 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:18:45,482 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:18:48,656 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:18:48,839 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:18:51,991 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:18:52,176 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:18:55,335 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:18:55,551 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:18:58,781 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:19:06,705 [main] INFO flipkart - AddToCartbuttonclicked clicked
+2021-07-13 12:19:14,053 [main] INFO flipkart - placeanOrder clicked
+2021-07-13 12:19:24,145 [main] INFO flipkart - Page is closed
+2021-07-13 12:33:46,095 [main] INFO flipkart - url is entered
+2021-07-13 12:33:46,633 [main] INFO flipkart - email is entered
+2021-07-13 12:33:46,882 [main] INFO flipkart - password is entered
+2021-07-13 12:33:47,080 [main] INFO flipkart - login is successfully
+2021-07-13 12:33:47,401 [main] INFO flipkart - Search for product entered
+2021-07-13 12:33:52,535 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:33:52,792 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:33:55,003 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:33:55,228 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:33:57,518 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:33:58,503 [main] INFO flipkart - 28+more
+2021-07-13 12:34:00,755 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:34:02,981 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:34:05,126 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:34:05,314 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:34:07,463 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:34:07,631 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:34:09,827 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:34:10,022 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:34:12,231 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:34:25,296 [main] INFO flipkart - Page is closed
+2021-07-13 12:36:12,620 [main] INFO flipkart - url is entered
+2021-07-13 12:36:13,070 [main] INFO flipkart - email is entered
+2021-07-13 12:36:13,412 [main] INFO flipkart - password is entered
+2021-07-13 12:36:13,619 [main] INFO flipkart - login is successfully
+2021-07-13 12:36:13,927 [main] INFO flipkart - Search for product entered
+2021-07-13 12:36:18,133 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:36:18,473 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:36:20,658 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:36:20,933 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:36:23,180 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:36:24,495 [main] INFO flipkart - 28+more
+2021-07-13 12:36:26,740 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:36:28,976 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:36:31,127 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:36:31,325 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:36:33,442 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:36:33,626 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:36:35,771 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:36:35,982 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:36:38,207 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:36:53,318 [main] INFO flipkart - Page is closed
+2021-07-13 12:38:05,625 [main] INFO flipkart - url is entered
+2021-07-13 12:38:06,095 [main] INFO flipkart - email is entered
+2021-07-13 12:38:06,316 [main] INFO flipkart - password is entered
+2021-07-13 12:38:06,491 [main] INFO flipkart - login is successfully
+2021-07-13 12:38:06,783 [main] INFO flipkart - Search for product entered
+2021-07-13 12:38:11,092 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:38:11,419 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:38:13,604 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:38:13,830 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:38:16,153 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:38:17,387 [main] INFO flipkart - 28+more
+2021-07-13 12:38:19,569 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:38:21,814 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:38:23,994 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:38:24,186 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:38:26,329 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:38:26,501 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:38:28,661 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:38:28,870 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:38:31,065 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:38:36,367 [main] INFO flipkart - AddToCartbuttonclicked clicked
+2021-07-13 12:38:40,984 [main] INFO flipkart - placeanOrder clicked
+2021-07-13 12:38:51,088 [main] INFO flipkart - Page is closed
+2021-07-13 12:40:30,427 [main] INFO flipkart - url is entered
+2021-07-13 12:40:31,119 [main] INFO flipkart - email is entered
+2021-07-13 12:40:31,363 [main] INFO flipkart - password is entered
+2021-07-13 12:40:31,584 [main] INFO flipkart - login is successfully
+2021-07-13 12:40:31,939 [main] INFO flipkart - Search for product entered
+2021-07-13 12:40:37,363 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:40:37,705 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:40:41,067 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:40:41,312 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:40:43,584 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:40:45,189 [main] INFO flipkart - 28+more
+2021-07-13 12:40:47,416 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:40:49,652 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:40:51,813 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:40:52,018 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:40:54,167 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:40:54,337 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:40:56,490 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:40:56,738 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:44:02,280 [main] INFO flipkart - url is entered
+2021-07-13 12:44:02,801 [main] INFO flipkart - email is entered
+2021-07-13 12:44:03,092 [main] INFO flipkart - password is entered
+2021-07-13 12:44:03,307 [main] INFO flipkart - login is successfully
+2021-07-13 12:44:03,652 [main] INFO flipkart - Search for product entered
+2021-07-13 12:44:09,428 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:44:09,821 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:44:11,990 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:44:12,197 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:44:14,456 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:44:15,558 [main] INFO flipkart - 28+more
+2021-07-13 12:44:17,777 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:44:20,012 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:44:22,151 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:44:22,349 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:44:24,535 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:44:24,712 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:44:26,864 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:44:27,066 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:44:48,894 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:46:54,946 [main] INFO flipkart - Page is closed
+2021-07-13 12:48:04,742 [main] INFO flipkart - url is entered
+2021-07-13 12:48:05,262 [main] INFO flipkart - email is entered
+2021-07-13 12:48:05,477 [main] INFO flipkart - password is entered
+2021-07-13 12:48:05,682 [main] INFO flipkart - login is successfully
+2021-07-13 12:48:06,026 [main] INFO flipkart - Search for product entered
+2021-07-13 12:48:11,260 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:48:11,629 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:48:13,781 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:48:14,004 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:48:16,271 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:48:17,501 [main] INFO flipkart - 28+more
+2021-07-13 12:48:19,744 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:48:21,973 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:48:24,134 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:48:24,320 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:48:26,463 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:48:26,632 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:48:28,801 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:48:29,033 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:48:36,705 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:50:53,990 [main] INFO flipkart - Page is closed
+2021-07-13 12:51:29,018 [main] INFO flipkart - url is entered
+2021-07-13 12:51:29,549 [main] INFO flipkart - email is entered
+2021-07-13 12:51:29,774 [main] INFO flipkart - password is entered
+2021-07-13 12:51:29,969 [main] INFO flipkart - login is successfully
+2021-07-13 12:51:30,339 [main] INFO flipkart - Search for product entered
+2021-07-13 12:51:36,467 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 12:51:36,868 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 12:51:39,046 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 12:51:39,274 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 12:51:41,539 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 12:51:42,660 [main] INFO flipkart - 28+more
+2021-07-13 12:51:44,886 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 12:51:47,097 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 12:51:49,304 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 12:51:49,588 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 12:51:51,732 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 12:51:51,914 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 12:51:54,091 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 12:51:54,277 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 12:51:56,526 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 12:52:01,859 [main] INFO flipkart - AddToCartbuttonclicked clicked
+2021-07-13 12:52:07,104 [main] INFO flipkart - placeanOrder clicked
+2021-07-13 12:52:08,113 [main] INFO flipkart - name is added to address box
+2021-07-13 12:52:08,395 [main] INFO flipkart - New Phone nummber added
+2021-07-13 12:52:08,588 [main] INFO flipkart - Pincode is added
+2021-07-13 12:52:08,827 [main] INFO flipkart - locality is added
+2021-07-13 12:52:09,263 [main] INFO flipkart - address is added
+2021-07-13 12:52:09,537 [main] INFO flipkart - cityName is added
+2021-07-13 12:52:09,727 [main] INFO flipkart - stateName is searched
+2021-07-13 12:52:09,868 [main] INFO flipkart - stateName is selected
+2021-07-13 12:52:10,175 [main] INFO flipkart - landmark is added
+2021-07-13 12:52:10,375 [main] INFO flipkart - AlternatePhone number is added
+2021-07-13 12:52:10,469 [main] INFO flipkart - type of address is selected home
+2021-07-13 12:52:10,581 [main] INFO flipkart - SaveAndDeliver clicked
+2021-07-13 12:52:16,605 [main] INFO flipkart - Page is closed
+2021-07-13 12:59:25,658 [main] INFO flipkart - url is entered
+2021-07-13 12:59:26,251 [main] INFO flipkart - email is entered
+2021-07-13 12:59:26,475 [main] INFO flipkart - password is entered
+2021-07-13 12:59:26,628 [main] INFO flipkart - login is successfully
+2021-07-13 12:59:26,675 [main] INFO flipkart - title is matched
+2021-07-13 12:59:30,557 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-13 12:59:35,210 [main] INFO flipkart - email is entered
+2021-07-13 12:59:35,426 [main] INFO flipkart - password is entered
+2021-07-13 12:59:35,588 [main] INFO flipkart - login is successfully
+2021-07-13 12:59:55,845 [main] INFO flipkart - Page is closed
+2021-07-13 13:02:32,375 [main] INFO flipkart - url is entered
+2021-07-13 13:02:33,030 [main] INFO flipkart - email is entered
+2021-07-13 13:02:33,247 [main] INFO flipkart - password is entered
+2021-07-13 13:02:33,500 [main] INFO flipkart - login is successfully
+2021-07-13 13:02:33,535 [main] INFO flipkart - title is matched
+2021-07-13 13:02:38,863 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-13 13:02:42,893 [main] INFO flipkart - email is entered
+2021-07-13 13:02:43,121 [main] INFO flipkart - password is entered
+2021-07-13 13:02:43,277 [main] INFO flipkart - login is successfully
+2021-07-13 13:02:46,469 [main] INFO flipkart - my account is clicked
+2021-07-13 13:02:46,619 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:02:47,229 [main] INFO flipkart - name is cleared
+2021-07-13 13:02:47,349 [main] INFO flipkart - personal edit button
+2021-07-13 13:02:47,481 [main] INFO flipkart - personal first name enter
+2021-07-13 13:02:47,482 [main] INFO flipkart - last name is clear
+2021-07-13 13:02:47,679 [main] INFO flipkart - personal last name is entered
+2021-07-13 13:02:47,780 [main] INFO flipkart - gender is selected
+2021-07-13 13:02:47,869 [main] INFO flipkart - saved details
+2021-07-13 13:02:47,870 [main] INFO flipkart - Email is edited
+2021-07-13 13:02:47,870 [main] INFO flipkart - email is entered
+2021-07-13 13:02:47,870 [main] INFO flipkart - email is saved
+2021-07-13 13:02:48,154 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-13 13:02:51,310 [main] INFO flipkart - email is entered
+2021-07-13 13:02:51,557 [main] INFO flipkart - password is entered
+2021-07-13 13:02:51,702 [main] INFO flipkart - login is successfully
+2021-07-13 13:02:55,013 [main] INFO flipkart - my account is clicked
+2021-07-13 13:02:58,196 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:02:58,619 [main] INFO flipkart - my address link is clicked
+2021-07-13 13:03:23,780 [main] INFO flipkart - Page is closed
+2021-07-13 13:07:00,802 [main] INFO flipkart - url is entered
+2021-07-13 13:07:01,339 [main] INFO flipkart - email is entered
+2021-07-13 13:07:01,569 [main] INFO flipkart - password is entered
+2021-07-13 13:07:01,712 [main] INFO flipkart - login is successfully
+2021-07-13 13:07:01,740 [main] INFO flipkart - title is matched
+2021-07-13 13:07:05,558 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-13 13:07:12,095 [main] INFO flipkart - email is entered
+2021-07-13 13:07:12,312 [main] INFO flipkart - password is entered
+2021-07-13 13:07:12,469 [main] INFO flipkart - login is successfully
+2021-07-13 13:07:15,965 [main] INFO flipkart - my account is clicked
+2021-07-13 13:07:16,148 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:07:16,632 [main] INFO flipkart - name is cleared
+2021-07-13 13:07:16,751 [main] INFO flipkart - personal edit button
+2021-07-13 13:07:16,876 [main] INFO flipkart - personal first name enter
+2021-07-13 13:07:16,877 [main] INFO flipkart - last name is clear
+2021-07-13 13:07:17,135 [main] INFO flipkart - personal last name is entered
+2021-07-13 13:07:17,225 [main] INFO flipkart - gender is selected
+2021-07-13 13:07:17,327 [main] INFO flipkart - saved details
+2021-07-13 13:07:17,328 [main] INFO flipkart - Email is edited
+2021-07-13 13:07:17,328 [main] INFO flipkart - email is entered
+2021-07-13 13:07:17,329 [main] INFO flipkart - email is saved
+2021-07-13 13:07:17,686 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-13 13:07:19,995 [main] INFO flipkart - email is entered
+2021-07-13 13:07:20,213 [main] INFO flipkart - password is entered
+2021-07-13 13:07:20,427 [main] INFO flipkart - login is successfully
+2021-07-13 13:07:27,740 [main] INFO flipkart - my account is clicked
+2021-07-13 13:07:30,904 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:07:31,459 [main] INFO flipkart - my address link is clicked
+2021-07-13 13:07:36,636 [main] INFO flipkart - Add Address button is clicked
+2021-07-13 13:07:36,794 [main] INFO flipkart - name is added to address box
+2021-07-13 13:07:37,033 [main] INFO flipkart - New Phone nummber added
+2021-07-13 13:07:37,231 [main] INFO flipkart - Pincode is added
+2021-07-13 13:07:37,428 [main] INFO flipkart - locality is added
+2021-07-13 13:07:37,850 [main] INFO flipkart - address is added
+2021-07-13 13:07:48,035 [main] INFO flipkart - Page is closed
+2021-07-13 13:10:35,403 [main] INFO flipkart - url is entered
+2021-07-13 13:10:36,094 [main] INFO flipkart - email is entered
+2021-07-13 13:10:36,321 [main] INFO flipkart - password is entered
+2021-07-13 13:10:36,574 [main] INFO flipkart - login is successfully
+2021-07-13 13:10:36,616 [main] INFO flipkart - title is matched
+2021-07-13 13:10:40,513 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-13 13:10:43,697 [main] INFO flipkart - email is entered
+2021-07-13 13:10:43,914 [main] INFO flipkart - password is entered
+2021-07-13 13:10:44,188 [main] INFO flipkart - login is successfully
+2021-07-13 13:10:47,625 [main] INFO flipkart - my account is clicked
+2021-07-13 13:10:47,810 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:10:48,282 [main] INFO flipkart - name is cleared
+2021-07-13 13:10:48,400 [main] INFO flipkart - personal edit button
+2021-07-13 13:10:48,521 [main] INFO flipkart - personal first name enter
+2021-07-13 13:10:48,521 [main] INFO flipkart - last name is clear
+2021-07-13 13:10:48,713 [main] INFO flipkart - personal last name is entered
+2021-07-13 13:10:48,824 [main] INFO flipkart - gender is selected
+2021-07-13 13:10:48,911 [main] INFO flipkart - saved details
+2021-07-13 13:10:48,911 [main] INFO flipkart - Email is edited
+2021-07-13 13:10:48,912 [main] INFO flipkart - email is entered
+2021-07-13 13:10:48,912 [main] INFO flipkart - email is saved
+2021-07-13 13:10:49,161 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-13 13:10:51,895 [main] INFO flipkart - email is entered
+2021-07-13 13:10:52,086 [main] INFO flipkart - password is entered
+2021-07-13 13:10:52,222 [main] INFO flipkart - login is successfully
+2021-07-13 13:10:55,626 [main] INFO flipkart - my account is clicked
+2021-07-13 13:10:58,800 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:10:59,249 [main] INFO flipkart - my address link is clicked
+2021-07-13 13:11:04,428 [main] INFO flipkart - Add Address button is clicked
+2021-07-13 13:11:04,578 [main] INFO flipkart - name is added to address box
+2021-07-13 13:11:04,855 [main] INFO flipkart - New Phone nummber added
+2021-07-13 13:11:05,021 [main] INFO flipkart - Pincode is added
+2021-07-13 13:11:05,235 [main] INFO flipkart - locality is added
+2021-07-13 13:11:05,772 [main] INFO flipkart - address is added
+2021-07-13 13:11:09,005 [main] INFO flipkart - cityName is added
+2021-07-13 13:11:09,126 [main] INFO flipkart - stateName is searched
+2021-07-13 13:11:09,244 [main] INFO flipkart - stateName is selected
+2021-07-13 13:11:09,499 [main] INFO flipkart - landmark is added
+2021-07-13 13:11:09,740 [main] INFO flipkart - AlternatePhone number is added
+2021-07-13 13:11:09,850 [main] INFO flipkart - type of address is selected home
+2021-07-13 13:11:09,959 [main] INFO flipkart - cancel all detailes
+2021-07-13 13:11:30,245 [main] INFO flipkart - Page is closed
+2021-07-13 13:13:14,123 [main] INFO flipkart - url is entered
+2021-07-13 13:13:14,808 [main] INFO flipkart - email is entered
+2021-07-13 13:13:15,037 [main] INFO flipkart - password is entered
+2021-07-13 13:13:15,239 [main] INFO flipkart - login is successfully
+2021-07-13 13:13:15,264 [main] INFO flipkart - title is matched
+2021-07-13 13:13:18,603 [main] INFO flipkart - logout is successful in 1st test case
+2021-07-13 13:13:21,505 [main] INFO flipkart - email is entered
+2021-07-13 13:13:21,801 [main] INFO flipkart - password is entered
+2021-07-13 13:13:22,050 [main] INFO flipkart - login is successfully
+2021-07-13 13:13:25,321 [main] INFO flipkart - my account is clicked
+2021-07-13 13:13:25,478 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:13:25,945 [main] INFO flipkart - name is cleared
+2021-07-13 13:13:26,054 [main] INFO flipkart - personal edit button
+2021-07-13 13:13:26,181 [main] INFO flipkart - personal first name enter
+2021-07-13 13:13:26,181 [main] INFO flipkart - last name is clear
+2021-07-13 13:13:26,372 [main] INFO flipkart - personal last name is entered
+2021-07-13 13:13:26,485 [main] INFO flipkart - gender is selected
+2021-07-13 13:13:26,598 [main] INFO flipkart - saved details
+2021-07-13 13:13:26,599 [main] INFO flipkart - Email is edited
+2021-07-13 13:13:26,600 [main] INFO flipkart - email is entered
+2021-07-13 13:13:26,600 [main] INFO flipkart - email is saved
+2021-07-13 13:13:26,822 [main] INFO flipkart - logout is successfull for 2nd testcases
+2021-07-13 13:13:29,734 [main] INFO flipkart - email is entered
+2021-07-13 13:13:29,993 [main] INFO flipkart - password is entered
+2021-07-13 13:13:30,165 [main] INFO flipkart - login is successfully
+2021-07-13 13:13:33,366 [main] INFO flipkart - my account is clicked
+2021-07-13 13:13:36,567 [main] INFO flipkart - myprofile is clicked
+2021-07-13 13:13:37,001 [main] INFO flipkart - my address link is clicked
+2021-07-13 13:13:42,215 [main] INFO flipkart - Add Address button is clicked
+2021-07-13 13:13:42,402 [main] INFO flipkart - name is added to address box
+2021-07-13 13:13:42,633 [main] INFO flipkart - New Phone nummber added
+2021-07-13 13:13:42,828 [main] INFO flipkart - Pincode is added
+2021-07-13 13:13:43,019 [main] INFO flipkart - locality is added
+2021-07-13 13:13:43,421 [main] INFO flipkart - address is added
+2021-07-13 13:13:46,643 [main] INFO flipkart - cityName is added
+2021-07-13 13:13:46,798 [main] INFO flipkart - stateName is searched
+2021-07-13 13:13:46,899 [main] INFO flipkart - stateName is selected
+2021-07-13 13:13:47,164 [main] INFO flipkart - landmark is added
+2021-07-13 13:13:47,364 [main] INFO flipkart - AlternatePhone number is added
+2021-07-13 13:13:47,488 [main] INFO flipkart - type of address is selected home
+2021-07-13 13:13:47,604 [main] INFO flipkart - cancel all detailes
+2021-07-13 13:13:47,853 [main] INFO flipkart - logout is successful for 3rd testcase
+2021-07-13 13:13:50,014 [main] INFO flipkart - email is entered
+2021-07-13 13:13:50,214 [main] INFO flipkart - password is entered
+2021-07-13 13:13:50,470 [main] INFO flipkart - login is successfully
+2021-07-13 13:13:50,772 [main] INFO flipkart - Search for product entered
+2021-07-13 13:13:54,768 [main] INFO flipkart - minPriceButtonclick clicked
+2021-07-13 13:13:55,053 [main] INFO flipkart - minamountclicked clicked
+2021-07-13 13:13:57,225 [main] INFO flipkart - maxmButtonclicked clicked
+2021-07-13 13:13:57,459 [main] INFO flipkart - maxmAmountclicked clicked
+2021-07-13 13:13:59,711 [main] INFO flipkart - RAMclicked clicked
+2021-07-13 13:14:01,084 [main] INFO flipkart - 28+more
+2021-07-13 13:14:03,305 [main] INFO flipkart - mobilephnoeclicked clicked
+2021-07-13 13:14:05,512 [main] INFO flipkart - Ratingclicked clicked
+2021-07-13 13:14:07,657 [main] INFO flipkart - internalStoragebutton clicked
+2021-07-13 13:14:07,837 [main] INFO flipkart - internalStorageclicked clicked
+2021-07-13 13:14:09,968 [main] INFO flipkart - Batterybuttonclicked clicked
+2021-07-13 13:14:10,142 [main] INFO flipkart - Batterycapicityclicked clicked
+2021-07-13 13:14:12,311 [main] INFO flipkart - operationsystemclicked clicked
+2021-07-13 13:14:12,476 [main] INFO flipkart - Androidclicked clicked
+2021-07-13 13:14:14,685 [main] INFO flipkart - VivoPhoneClicked clicked
+2021-07-13 13:14:20,038 [main] INFO flipkart - AddToCartbuttonclicked clicked
+2021-07-13 13:14:25,739 [main] INFO flipkart - placeanOrder clicked
+2021-07-13 13:14:35,818 [main] INFO flipkart - Page is closed
