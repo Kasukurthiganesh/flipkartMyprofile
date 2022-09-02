@@ -8,12 +8,8 @@
       <parameter name="browser" value="chrome"/>
       
       <classes>
-       <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile001"/> 
         <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile002"/>
-         <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile003"/> 
-          <class name="flipkartMyProfile_TestCases.TC_flipkartMyProfile004"/> 
-         
-     </classes>
+  </classes>
   </test> <!-- Test --> 
    
 </suite> <!-- Suite -->
